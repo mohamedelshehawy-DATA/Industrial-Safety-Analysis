@@ -1,4 +1,4 @@
-# Industrial Safety Analysis
+8# Industrial Safety Analysis
 
 ## Project Overview
 
@@ -7,7 +7,9 @@ This project analyzes industrial accident records to identify accident trends, h
 The analysis was performed using Python, Excel, and data visualization techniques to support data-driven safety decision-making.
 
 ---
+## Dashboard Preview
 
+![Industrial Safety Dashboard](visuals/industrual_safety_dashboard.png)
 ## Business Problem
 
 Industrial organizations need to understand the root causes and patterns of workplace accidents to reduce risks and improve safety performance.
